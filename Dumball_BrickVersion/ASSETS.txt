@@ -1,3 +1,6 @@
 All music and textures in this game were created by Lukas Hurtig and belong to Lukas Hurtig
 
 The font type is BitPotion by Joeb Rogers under the Creative Commons Attribution v4.0 International Liscense
+
+The tileset images BrickWall.png & BrickTileset.png were created with the Kings and Pigs pack by Pixel Frog on itch.io: https://pixelfrog-assets.itch.io/kings-and-pigs
+under the CC0 1.0 Universal liscense - https://creativecommons.org/publicdomain/zero/1.0/
